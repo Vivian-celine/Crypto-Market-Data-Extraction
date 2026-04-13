@@ -1,8 +1,11 @@
 # 📊 Cryptocurrency Market Data Extraction & Analysis
 
 **Author:** Vivian Celine
+
 **GitHub:** [Vivian-celine](https://github.com/Vivian-celine)
+
 **Data Source:** CoinGecko Public API
+
 **Tools:** Python | Pandas | Requests | Matplotlib | Jupyter Notebook | Microsoft Excel
 
 ---
